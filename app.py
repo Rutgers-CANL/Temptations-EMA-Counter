@@ -5,7 +5,6 @@ Counts completed random surveys per participant from MetricWire raw (API)
 export files, for working out who qualifies for the completion bonus.
 
 Run with:  streamlit run app.py   (or double-click launch.py)
-Just checking to see if changes work now.
 """
 
 from __future__ import annotations
